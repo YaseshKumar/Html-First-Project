@@ -7,6 +7,7 @@ A simple HTML page created while learning web development in my first semester.
 - Inserting images from a local folder  
 - Creating a table for daily tasks  
 - Basic HTML structure
+- Inserting links
    
    1. Clone the repo:
    ```bash
